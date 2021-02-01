@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(161, 144, 238);
+}
+
+
+
+h1{ font-size: 40px;
+    font-weight: 400;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    padding: 0%;
+}
+
+h2{ font-size: 20px;
+    font-weight: 100;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    padding: 0%;
+}
+
+h3{ font-size: 20px;
+    font-weight: 400;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:bold; 
+    color: rgb(73, 33, 92);
+    padding: 0%;
+}
+
+
+
+
