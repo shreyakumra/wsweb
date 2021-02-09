@@ -1,7 +1,11 @@
-body {
-    background-color: rgb(161, 144, 238);
-}
 
+
+body{
+    background-color: rgb(161, 144, 238);
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
 
 
 h1{ font-size: 40px;
